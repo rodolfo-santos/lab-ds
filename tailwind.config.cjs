@@ -13,13 +13,16 @@ module.exports = {
 
     extend: {
       colors: {
+        black: '#000',
+        while: '#fff',
+
         'gray-900': '#121214',
         'gray-800': '#202024',
         'gray-400': '#7C7C8A',
         'gray-100': '#E1E1E6',
         'gray-200': '#C4C4CC',
 
-        'cyan-500': '#81F8F7',
+        'cyan-500': '#81D8F7',
         'cyan-300': '#9BE1FB'
       },
       fontFamily: {
